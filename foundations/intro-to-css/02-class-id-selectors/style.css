@@ -1,0 +1,18 @@
+.odd{
+    background-color: rgb(255, 99, 71);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.No3{
+    font-size: 24px;
+}
+
+#No2{
+    color: blue;
+    font-size: 36px;
+}
+#No4{
+    background-color: lightgreen;
+    font-size: 24;  /*Can re-use No3 class*/
+    font-weight: bold;
+}
