@@ -30,5 +30,7 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  display: block; /*換行*/
+  margin: auto; /*自動置中*/
   padding: 8px 24px;
 }
